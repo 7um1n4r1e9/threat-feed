@@ -405,3 +405,4 @@ xmr.kryptex.network
 d33f51dyacx7bd.cloudfront.net
 sireimplement.com
 verification-cdn-cloud.beer
+sxim.me
