@@ -409,3 +409,4 @@ go1.monetizemyapp.net
 script-version.ipn.monetizemyapp.net
 infocusconx.com
 logs.infocusconx.com
+polygon-public.nodies.app
