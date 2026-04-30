@@ -398,11 +398,14 @@ mattressthere.com
 cannonkit.com
 see-more.re
 livespacezone.monster
-browsersession.org
-monetizemyapp.net
-infocusconx.com
 xmr.kryptex.network
 d33f51dyacx7bd.cloudfront.net
 sireimplement.com
 verification-cdn-cloud.beer
 sxim.me
+browsersession.org
+monetizemyapp.net
+go1.monetizemyapp.net
+script-version.ipn.monetizemyapp.net
+infocusconx.com
+logs.infocusconx.com
