@@ -1,6 +1,3 @@
-firewall.cx
-www.netflix.com
-netflix.com
 google-analytics.com
 vk.com
 vkontakte.ru
