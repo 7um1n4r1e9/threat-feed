@@ -1,2 +1,2 @@
-google-analytics.com
 netflix.com
+google-analytics.com
