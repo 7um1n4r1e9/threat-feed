@@ -1,3 +1,6 @@
+yahoo.com
+youtube.com
+playgama.com
 netflix.com
 google-analytics.com
 vk.com
