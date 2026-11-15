@@ -642,3 +642,4 @@ oc.parergygrates.com
 parergygrates.com
 569aa1e398.0d64b8eaa5.com
 0d64b8eaa5.com
+malware.com
